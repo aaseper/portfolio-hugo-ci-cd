@@ -1,0 +1,3 @@
+background-image:linear-gradient(
+      {{ .Site.Params.sidebar.gradientOverlay | safeCSS }}
+    ),url('{{ .Site.Params.sidebar.backgroundImage | absURL }}')

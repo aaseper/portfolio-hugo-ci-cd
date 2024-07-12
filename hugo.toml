@@ -1,0 +1,84 @@
+baseURL = "http://aaseper.dev/"
+languageCode = "en-us"
+title = "Alejandro Asensio Pérez"
+copyright="© Copyright 2024-2025 Alejandro Asensio Pérez."
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
+[params.intro]
+  main = "Alejandro Asensio Pérez"
+  sub = "Backend Developer"
+
+[params.main]
+  latestPublishHeader = "My latest project"
+
+[taxonomies]
+  design = "designs"
+  tech = "techs"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[params]
+  breadcrumb = true
+  mainSections = ["portfolio"]
+  rendererSafe = true
+
+[params.notFound]
+  gopher = "/images/gopher.png"
+  h1 = "Bummer!"
+  p = "It seems that this page doesn't exist."
+
+[params.sections]
+  portfolio = "project"
+
+[params.sidebar]
+  gradientOverlay = "rgba(132, 56, 21, 1),rgba(132, 56, 21, 1)"
+  logo = "/images/logo.png"
+
+[params.social]
+  github = "https://github.com/aaseper"
+  linkedin = "https://linkedin.com/in/aaseper"
+
+[params.contact]
+  email = "alejandro dot aseper at outlook dot es"
+  text= "Contact"
+
+[menu]
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  title = "About section"
+  url = "/about/"
+  weight = -120
+
+[[menu.main]]
+  identifier = "portfolio"
+  name = "Portfolio"
+  title = "Portfolio"
+  url = "/portfolio/"
+  weight = -110
+
+[sitemap]
+  changefreq = "monthly"
+  filename = "sitemap.xml"
+  priority = 0.5
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    disable = true
+    respectDoNotTrack = true
+    useSessionStorage = false
+  [privacy.twitter]
+    disable = false
+    enableDNT = true
+    simple = false
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
