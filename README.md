@@ -14,6 +14,8 @@
     License: MIT
     Author: Alejandro Asensio Pérez
 
+> **Disclaimer:** This project uses and modifies the Hugo Theme created by [Baptiste Jacquemet](https://themes.gohugo.io/themes/personal-web/), which is licensed under the MIT License.
+
 ## 2 Description
 
 This repository demonstrates a CI/CD workflow for a Hugo static website portfolio using GitHub Actions. It automates the entire build and deployment process, ensuring your portfolio is always up-to-date and readily available online. This eliminates the need for manual intervention, saving you time and reducing the risk of errors.
