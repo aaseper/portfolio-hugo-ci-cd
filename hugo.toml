@@ -13,7 +13,7 @@ pygmentsCodeFences=true
   sub = "Backend Developer"
 
 [params.main]
-  latestPublishHeader = "My latest project"
+  latestPublishHeader = "My latest uploaded project"
 
 [taxonomies]
   design = "designs"
