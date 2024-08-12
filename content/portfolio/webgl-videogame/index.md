@@ -5,7 +5,7 @@ jobDate: 2023
 work: [Gamification, European curriculum, Team Development]
 techs: [WebGL, Unity Engine, MariaDB, Android]
 designs: [Unity Editor, Rider, phpMyAdmin]
-thumbnail: webgl_videogame/webgl-videogame_pic.png
+thumbnail: webgl-videogame/webgl-videogame_pic.png
 projectUrl: https://github.com/BarracudaInteractive
 ---
 
