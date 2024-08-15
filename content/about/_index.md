@@ -1,6 +1,6 @@
 ---
 title: ABOUT
-description: Salute
+description: Welcome to my about page!
 ---
 
 ### Driven backend developer with a passion for problem-solving

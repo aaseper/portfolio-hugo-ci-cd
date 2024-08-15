@@ -1,6 +1,7 @@
 ---
 title: HOME
-description: Welcome
+description: Excited to share my portfolio with you! Take a look around.
+images: ["/images/home.png"]
 ---
 
 Excited to share my portfolio with you! Take a look around.

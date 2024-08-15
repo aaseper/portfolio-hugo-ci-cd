@@ -1,6 +1,6 @@
 ---
 title: PORTFOLIO
-description: 'Portfolio Section'
+description: Welcome to my portfolio!
 ---
 
 ### Welcome to my portfolio!
