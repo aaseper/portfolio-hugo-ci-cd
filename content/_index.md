@@ -4,6 +4,8 @@ description: Excited to share my portfolio with you! Take a look around.
 images: ["/images/home.png"]
 ---
 
-Excited to share my portfolio with you! Take a look around.
+Excited to share my portfolio with you!
 
-[Get to know me better.](/about "Get to know me better")
+### [My whole portfolio](/portfolio)
+
+[Learn more about my skills](/about)

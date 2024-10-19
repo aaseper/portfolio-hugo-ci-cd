@@ -25,4 +25,4 @@ My thirst for knowledge doesn't stop at academics. I actively pursue personal pr
 
 ### Ready to contribute to a dynamic team
 
-I'm a highly enthusiastic individual with a strong work ethic and a collaborative spirit.  My diverse skillset, coupled with my dedication to continuous learning, makes me a valuable asset to any team.  I hold a B2 First certificate in English and possess a B driving license, offering geographical mobility.
+I'm a highly enthusiastic individual with a strong work ethic and a collaborative spirit.  My diverse skillset, coupled with my dedication to continuous learning, makes me a valuable asset to any team. Plus, I hold a B2 First certificate.
