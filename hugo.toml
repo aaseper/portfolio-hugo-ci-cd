@@ -2,7 +2,7 @@ baseURL = "http://aaseper.dev/"
 languageCode = "en-us"
 title = "Alejandro Asensio Pérez"
 description = "Excited to share my portfolio with you! Take a look around."
-copyright="© Copyright 2024-2025 Alejandro Asensio Pérez."
+copyright="© Copyright 2025 Alejandro Asensio Pérez."
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -11,7 +11,7 @@ pygmentsCodeFences=true
 
 [params.intro]
   main = "Alejandro Asensio Pérez"
-  sub = "Backend Developer"
+  sub = "Full-Stack Developer"
 
 [params.main]
   latestPublishHeader = "My latest uploaded project"

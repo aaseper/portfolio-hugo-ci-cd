@@ -3,13 +3,17 @@ title: ABOUT
 description: Welcome to my about page!
 ---
 
-### Driven backend developer with a passion for problem-solving
+### Driven Full-Stack Software Development Engineer with a passion for problem-solving
 
-I'm a highly motivated Computer Engineering and Videogame Development graduate from King Juan Carlos University (URJC). My passion for software development fuels my drive to learn and tackle new challenges. I possess a strong foundation in designing and developing IT systems and architectures, alongside a keen interest in expanding my skillset in Backend, Sysadmin, Data Science, Machine Learning, Cloud DevOps, and Cybersecurity.
+I'm a highly motivated Computer Engineering and Videogame Design and Development graduate from King Juan Carlos University (URJC). My passion for software development fuels my drive to learn and tackle new challenges. I possess a strong foundation in designing and developing IT systems and architectures, alongside a keen interest in expanding my skillset in Full-Stack, Sysadmin, Data Science, Machine Learning, Cloud DevOps and Cybersecurity.
 
-### Proven track record of innovation and collaboration
+### Technically robust B2B Platform Development
 
-During my internship, I leveraged my data science fluency to build a B2B platform that optimizes investment strategies for a leading bank. This project exemplifies my ability to apply technical skills to real-world problems and deliver impactful solutions.
+During my experience as a Business Consultant, I contributed to the development of a B2B risk strategy management platform for a leading bank. This project combined my understanding of client needs with my technical skills, enabling me to design innovative solutions with direct business impact.
+
+My experience in implementing and supporting Treasury and IT Risks systems, along with my involvement in project management (PMO), provided me with a comprehensive view of the software development lifecycle and its impact on the business.
+
+Moreover, this project allowed me to apply my knowledge of modern languages and frameworks, both on-premise and cloud, to build a robust and efficient solution. My experience in unit testing, SIT, UAT, reporting, batch and ETL, as well as my experience as a Linux/Solaris system administrator, granted me to address complex technical challenges and ensure the platform's quality and performance.
 
 ### Building user-centric solutions with accessibility in mind
 
@@ -19,10 +23,10 @@ My commitment extends beyond technical excellence. I spearheaded the development
 
 While actively involved in student organizations, I thrived in leadership roles. As president of the General Association of Students and Representatives (ANGER), I spearheaded multidisciplinary events exceeding 150 participants, fostering collaboration across faculties. My experience as a Government Councilor, Center Delegate, and national representative at URJC honed my communication and teamwork skills.
 
-### Continuous learning and a passion for sharing knowledge
+### Projects and community involvement
 
-My thirst for knowledge doesn't stop at academics. I actively pursue personal projects, ranging from RESTful microservices to multiplayer videogames, to push my boundaries. Additionally, I volunteered at HURJC hospital and mentored at the AULA education fair, demonstrating my commitment to giving back to the community.
+My thirst for knowledge doesn't stop at academics. I actively pursue personal projects, ranging from RESTful microservices to multiplayer videogames, to push my boundaries. Additionally, I volunteered at HURJC hospital and mentored at the AULA education fair, demonstrating my commitment to giving back to the community. Plus, I hold a B2 First certificate.
 
 ### Ready to contribute to a dynamic team
 
-I'm a highly enthusiastic individual with a strong work ethic and a collaborative spirit.  My diverse skillset, coupled with my dedication to continuous learning, makes me a valuable asset to any team. Plus, I hold a B2 First certificate.
+I'm a greatly enthusiastic individual with a solid work ethic and a collaborative spirit.  My diverse skillset, coupled with my dedication to continuous learning, makes me a valuable asset to any team.
