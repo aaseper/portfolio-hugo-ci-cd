@@ -1,8 +1,8 @@
-baseURL = "http://aaseper.dev/"
+baseURL = "https://aaseper.github.io/"
 languageCode = "en-us"
 title = "Alejandro Asensio Pérez"
 description = "Excited to share my portfolio with you! Take a look around."
-copyright="© Copyright 2025 Alejandro Asensio Pérez."
+copyright="© Copyright 2026 Alejandro Asensio Pérez."
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -14,7 +14,7 @@ pygmentsCodeFences=true
   sub = "Full-Stack Developer"
 
 [params.main]
-  latestPublishHeader = "My latest uploaded project"
+  latestFeaturedHeader = "My latest featured project"
 
 [taxonomies]
   design = "designs"
